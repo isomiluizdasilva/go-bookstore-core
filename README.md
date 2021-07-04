@@ -1,0 +1,2 @@
+# go-bookstore-core
+core
